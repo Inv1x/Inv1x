@@ -38,6 +38,7 @@ I'm a Full-Stack Web Developer!
 
 ### Containerising
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Kubernetes-3970E4?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ## 📈 GitHub Stats 
 
