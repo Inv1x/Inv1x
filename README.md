@@ -26,6 +26,7 @@ I'm a Full-Stack Web Developer!
 ### Frameworks
 ![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
