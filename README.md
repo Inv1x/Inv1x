@@ -30,6 +30,7 @@ I'm a Full-Stack Web Developer!
 ![](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)
 
 ### Styling
