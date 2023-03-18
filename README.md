@@ -8,11 +8,7 @@ I'm a Full-Stack Web Developer!
 
 ## 🔭 I'm currently working on
 
-- Statistics service [APPY](https://appy.by)
-
-## 🌱 I'm currently learning
-
-![](https://img.shields.io/badge/-.NET_MAUI-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+- [Electronic Mushroom](https://em.studio)
 
 ## 💼 Technical Skills
 
@@ -28,6 +24,7 @@ I'm a Full-Stack Web Developer!
 ![](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Vue-41B883?logo=vue.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=white&style=for-the-badge)
@@ -48,3 +45,4 @@ I'm a Full-Stack Web Developer!
 
 ## 🤝 Contact me
 <a href="https://vk.com/inv1x"><img align="left" src="https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" alt="VK"/></a>
+<a href="https://t.me/inv1xx"><img align="left" src="https://img.shields.io/badge/-Telegram-27A7E7?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
