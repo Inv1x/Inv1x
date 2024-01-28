@@ -6,7 +6,7 @@ Hi there, I'm Vlad 👋
 I'm a Full-Stack Web Developer!
 </h2> 
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working in
 
 - [Electronic Mushroom](https://em.studio)
 
