@@ -46,7 +46,7 @@ I'm a Full-Stack Web Developer!
 
 ## 📈 GitHub Stats 
 
-[![Inv1x's github stats](https://github-readme-stats.vercel.app/api?username=Inv1x&count_private=true&theme=dark)](https://github.com/Inv1x)
+[![Inv1x's github stats](https://github-readme-stats.vercel.app/api?username=Inv1x&theme=dark&rank_icon=github)](https://github.com/Inv1x)
 
 ## 🤝 Contact me
 <a href="https://vk.com/inv1x"><img align="left" src="https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" alt="VK"/></a>
