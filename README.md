@@ -9,6 +9,7 @@ I'm a Full-Stack Web Developer!
 ## 🔭 I'm currently working in
 
 - [Electronic Mushroom](https://em.studio)
+- [Playscape](https://www.playscape.co.il)
 
 ## 💼 Technical Skills
 
@@ -49,5 +50,4 @@ I'm a Full-Stack Web Developer!
 [![Inv1x's github stats](https://github-readme-stats.vercel.app/api?username=Inv1x&theme=dark&rank_icon=github)](https://github.com/Inv1x)
 
 ## 🤝 Contact me
-<a href="https://vk.com/inv1x"><img align="left" src="https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" alt="VK"/></a>
 <a href="https://t.me/inv1xx"><img align="left" src="https://img.shields.io/badge/-Telegram-27A7E7?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
