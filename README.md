@@ -22,6 +22,7 @@ I'm a Full-Stack Web Developer!
 ![](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
 
 #### Frameworks and Libraries
+![](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
