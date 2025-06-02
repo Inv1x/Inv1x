@@ -33,6 +33,7 @@ I'm a Full-Stack Web Developer!
 ![](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 
 #### Styling
+![](https://img.shields.io/badge/-Shadcn-000000?logo=shadcnui&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
