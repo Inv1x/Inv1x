@@ -3,8 +3,8 @@ Hi there, I'm Vlad 👋
 </h3> 
 
 <h2 align="center">
-I'm a Full-Stack Web Developer!
-</h2> 
+I'm a Full-Stack Web Developer | Mobile, AI and DevOps Enthusiast
+</h2>
 
 ## 🔭 I'm currently working in
 
@@ -45,10 +45,15 @@ I'm a Full-Stack Web Developer!
 ![](https://img.shields.io/badge/-Gitlab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Github_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
+## 📚 Currently Learning
+
+- Advanced Kubernetes networking and efficient resource management  
+- Building tools and crafting meta-prompts for AI systems
 
 ## 📈 GitHub Stats 
 
 [![Inv1x's github stats](https://github-readme-stats.vercel.app/api?username=Inv1x&theme=dark&rank_icon=github)](https://github.com/Inv1x)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Inv1x&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Contact me
 <a href="https://t.me/inv1xx"><img align="left" src="https://img.shields.io/badge/-Telegram-27A7E7?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
