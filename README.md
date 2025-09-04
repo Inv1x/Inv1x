@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer | Mobile, AI and DevOps Enthusiast
 ## 🔭 I'm currently working in
 
 - [Electronic Mushroom](https://em.studio)
-- [Playscape](https://www.playscape.co.il)
+- [EMD Labs](https://emd.one)
 
 ## 💼 Technical Skills
 
