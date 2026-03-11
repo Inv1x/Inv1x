@@ -6,11 +6,6 @@ Hi there, I'm Vlad 👋
 I'm a Full-Stack Web Developer | Mobile, AI and DevOps Enthusiast
 </h2>
 
-## 🔭 I'm currently working in
-
-- [Electronic Mushroom](https://em.studio)
-- [EMD Labs](https://emd.one)
-
 ## 💼 Technical Skills
 
 #### Languages
@@ -25,35 +20,35 @@ I'm a Full-Stack Web Developer | Mobile, AI and DevOps Enthusiast
 ![](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Vue-41B883?logo=vue.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 
 #### Styling
 ![](https://img.shields.io/badge/-Shadcn-000000?logo=shadcnui&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 
 #### DevOps
-![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Kubernetes-3970E4?logo=kubernetes&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/-Gitlab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Gitlab_CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Github_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
 ## 📚 Currently Learning
 
-- Advanced Kubernetes networking and efficient resource management  
-- Building tools and crafting meta-prompts for AI systems
+- Tooling and skills for AI agents
+- Best practices of observability
 
 ## 📈 GitHub Stats 
 
 [![Inv1x's github stats](https://github-readme-stats.vercel.app/api?username=Inv1x&theme=dark&rank_icon=github)](https://github.com/Inv1x)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Inv1x&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Contact me
 <a href="https://t.me/inv1xx"><img align="left" src="https://img.shields.io/badge/-Telegram-27A7E7?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
