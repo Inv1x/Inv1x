@@ -41,14 +41,18 @@ I'm a Full-Stack Web Developer | Mobile, AI and DevOps Enthusiast
 ![](https://img.shields.io/badge/-Gitlab_CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Github_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
+#### AI Agents and tooling
+![](https://img.shields.io/badge/-Pi-000000?logo=pi&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Codex-00A67E?&style=for-the-badge)
+![](https://img.shields.io/badge/-Claude_Code-D97757?logo=claudecode&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-LangChain-7FC8FF?logo=langchain&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/-LangGraph-7FC8FF?logo=langgraph&logoColor=black&style=for-the-badge)
+
 ## 📚 Currently Learning
 
 - Tooling and skills for AI agents
 - Best practices of observability
 
-## 📈 GitHub Stats 
-
-[![Inv1x's github stats](https://github-readme-stats.vercel.app/api?username=Inv1x&theme=dark&rank_icon=github)](https://github.com/Inv1x)
-
 ## 🤝 Contact me
+<a href="https://www.linkedin.com/in/vladislav-pavlik"><img align="left" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://t.me/inv1xx"><img align="left" src="https://img.shields.io/badge/-Telegram-27A7E7?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
